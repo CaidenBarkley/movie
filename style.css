@@ -1,4 +1,14 @@
-body{background-color: burlywood;}
+/* /* body{background-color: burlywood;}
+
+nav{
+    text-decoration: none;
+} */
+
+
+
+body{background-color: burlywood;
+    background-image: linear-gradient(to top, burlywood, #ce944b);
+     background-repeat: no-repeat;}
 
 nav{
     text-decoration: none;
@@ -7,3 +17,18 @@ nav{
 footer{text-align: center;
        font-size: small;
         font-style: italic;}
+    
+#Theassassinationofatardigradebyacoolrotiferthatremovesbulletpoints{list-style-type: none;}
+
+#pittMarker{
+    list-style-image: url(Brad\ pitt\ png\ \(1\).png); list-style-position: inside;}
+
+#thisdudeplayedrobertford{ list-style-image: url(affleck-removebg-preview\ \(1\).png);
+    list-style-position: inside;}
+
+a {color: #0781c7}
+
+#howdy{color: blue;
+text-decoration: none;}
+
+.thisisathingythingthing{font-size: 23px;}
